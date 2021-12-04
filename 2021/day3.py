@@ -25,5 +25,5 @@ def part1():
 
 
 def part2():
-    # Failed until moment
+    # Failed until now
     pass
